@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: rgb(241, 244, 160);
+}
+#button {
+  background-color: rgb(139, 207, 72);
+  width: 10px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.container{
+  background-color: rgb(240, 200, 200);
+  align-items: center;
+  text-align: center;
+}
+#name{
+  background-color: rgb(233, 211, 169);
+}
+#fname{
+  background-color: rgb(199, 241, 162);
+}
+#email{
+  background-color: rgb(159, 226, 225);
+}
+#phoneno{
+  background-color: rgb(225, 181, 218);
+}
+#place{
+  background-color: rgb(171, 194, 223);
+}
