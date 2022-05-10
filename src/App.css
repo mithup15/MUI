@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+#button {
+  background-color: rgb(139, 207, 72);
+  width: 10px;
+  border-radius: 30px;
+  padding: 10px;
+}
+#name{
+  background-color: rgb(237, 178, 69);
+}
